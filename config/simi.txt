@@ -1,0 +1,15 @@
+bonjour,hello,salut,salutation,bonsoir,coucou,bonjour,slt
+ciao,aurevoir,aurevoire,
+lance,mets,met,lance
+cree,creation,construction,cree
+nouveau,nouveaux,original,premier,nouveau
+projet,idee,objectif,plan,programme,projets,environnement
+allume,demarre,wakeonlan,wol,allumes
+archive,archive,archivage,
+liste,enumere,
+quelles,quelle,quel,quels
+cour,cours,actuelle,actuelles,
+
+
+
+
